@@ -1,6 +1,6 @@
 - Hi, I’m @keyur653
 - I’m currently learning Python and Java.
-- Have made some projects using FLutter....feel free to check them out.
+- Have made some projects using Flutter....feel free to check them out.
 - And .....I know a bit of C++.
 
 <!---
